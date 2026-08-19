@@ -1,0 +1,8 @@
+yfinance>=0.2.28
+pandas>=1.5
+matplotlib>=3.5
+
+# Optional: only needed if you want the interactive "qt5agg" plotting
+# backend used by atr_calc.py and ema_calc.py. If not installed, those
+# scripts fall back to matplotlib's default backend automatically.
+# PyQt5>=5.15
