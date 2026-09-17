@@ -1,6 +1,6 @@
 # Stock Data & Technical Indicators Toolkit
 
-A small collection of Python scripts for pulling historical OHLC stock
+A collection of Python scripts for pulling historical OHLC stock
 data from Yahoo Finance and computing a few common technical analysis
 (TA) indicators — Supertrend, ATR, and EMA — with matplotlib plots.
 
