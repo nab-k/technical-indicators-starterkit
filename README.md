@@ -37,8 +37,8 @@ analyze.
 Requires Python 3.9+.
 
 ```bash
-git clone <this-repo-url>
-cd <repo-folder>
+git clone https://github.com/nab-k/technical-indicators-starterkit
+cd technical-indicators-starterkit
 python3 -m venv venv
 source venv/bin/activate      # Windows: venv\Scripts\activate
 pip install -r requirements.txt
